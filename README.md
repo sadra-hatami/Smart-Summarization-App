@@ -1,7 +1,7 @@
 <div align="center">
 
 # Smart Summarization App
-# 📝🇮🇷
+# 📝🤖
 
 ### A Persian Text Summarizer Built with Streamlit and Transformers
 
